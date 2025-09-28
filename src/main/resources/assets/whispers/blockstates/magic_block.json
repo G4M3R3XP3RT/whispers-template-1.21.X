@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "whispers:block/magic_block"
+    }
+  }
+}

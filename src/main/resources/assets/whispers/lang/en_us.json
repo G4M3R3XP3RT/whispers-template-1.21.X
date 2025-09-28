@@ -1,0 +1,34 @@
+{
+  "item.whispers.pink_garnet": "Pink Garnet",
+  "item.whispers.raw_pink_garnet": "Raw Pink Garnet",
+  "item.whispers.furry": "Gay Twink",
+  "item.whispers.chisel": "Chisel",
+  "item.whispers.cauliflower": "Cauliflower",
+  "item.whispers.starlight_ashes": "Starlight Ashes",
+
+
+  "block.whispers.pink_garnet_block": "Block of Pink Garnet",
+  "block.whispers.raw_pink_garnet_block": "Block of Raw Pink Garnet",
+  "block.whispers.furry_block": "Block of Twink",
+
+  "block.whispers.pink_garnet_ore": "Pink Garnet Ore",
+  "block.whispers.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore",
+
+
+  "block.whispers.magic_block": "Magic Block",
+
+
+  "itemgroup.whispers.pink_garnet_items": "Pink Garnet Items",
+  "itemgroup.whispers.pink_garnet_blocks": "Pink Garnet Blocks",
+  "itemgroup.whispers.furry": "Furry",
+
+
+  "tooltip.whispers.magic_block.tooltip": "This block is very, very §9MAGICAL§r",
+  "tooltip.whispers.magic_block.tooltip.2": "Throw §9Pink Garnet Ore§r on it! §1lebron§r §2lebron§r §3lebron§r §4lebron§r §5lebron§r §6lebron§r §7lebron§r §8lebron§r §10lebron§r",
+
+  "tooltip.whispers.chisel": "Press §eShift§r for more Information!",
+  "tooltip.whispers.chisel.shift_down": "This item chisels blocks into bricks",
+
+  "tooltip.whispers.cauliflower.tooltip": "This is delicious"
+
+}
